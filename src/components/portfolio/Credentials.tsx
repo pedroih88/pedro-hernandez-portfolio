@@ -94,7 +94,7 @@ const Credentials = () => {
           <div className="col-span-12 lg:col-span-8">
             <p className="text-[10px] tracking-[0.4em] uppercase text-gold mb-4">§ 07 — Service Beyond Work</p>
             <h3 className="font-display font-light text-3xl lg:text-4xl text-cream-soft leading-[1.1] text-balance">
-              Two decades developing youth — Scoutmaster, Troop Guide, high-adventure
+              A decade long commitment developing youth — Scoutmaster, Troop Guide, high-adventure
               coordinator, and Eagle Scout Board of Review member.
             </h3>
             <p className="mt-5 text-cream-soft/70 text-base leading-relaxed max-w-2xl">
