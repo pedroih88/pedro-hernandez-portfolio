@@ -86,7 +86,7 @@ const Credentials = () => {
           </div>
           <div className="col-span-12 lg:col-span-4 lg:text-right">
             <div className="inline-block">
-              <div className="font-display text-7xl lg:text-8xl text-gold font-light leading-none">20+</div>
+              <div className="font-display text-7xl lg:text-8xl text-gold font-light leading-none">10+</div>
               <div className="text-[10px] tracking-[0.4em] uppercase text-cream-soft/60 mt-3">
                 Years of volunteer service
               </div>

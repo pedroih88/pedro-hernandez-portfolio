@@ -1,6 +1,6 @@
 const stats = [
-  { value: "20+", label: "Years leading regulated programs" },
-  { value: "250+", label: "Suppliers governed & audited" },
+  { value: "10+", label: "Years leading regulated programs" },
+  { value: "250+", label: "SUPPLIERS GOVERNED" },
   { value: "0", label: "Major audit findings — ISO 13485 / 9001" },
   { value: "30%", label: "Validation cycle reduction" },
 ];
