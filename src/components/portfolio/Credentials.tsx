@@ -11,6 +11,14 @@ const certs = [
   "APQP & PPA — Thors eLearning Solutions",
 ];
 
+const training = [
+  "TÜV Akademie — Design Controls",
+  "AAMI — Process Validation",
+  "OrielStat — Customer Feedback & Complaint Handling",
+  "OrielStat — Supplier Quality in Medical Devices",
+  "PMI — AI in Project Management",
+];
+
 const tools = [
   "MS Project", "Smartsheet", "JIRA", "Miro", "Visio", "SharePoint",
   "Propel PLM", "Power BI", "Tableau", "SOP Authorship",
