@@ -60,6 +60,16 @@ const Credentials = () => {
             <p className="text-xs text-muted-foreground mt-6 italic">
               Languages — English (fluent) · Spanish (native & fluent)
             </p>
+
+            <h3 className="font-display text-xl text-emerald-deep mt-10 mb-6">Relevant training</h3>
+            <ul className="space-y-3">
+              {training.map((t) => (
+                <li key={t} className="flex items-start gap-3 text-foreground/80 text-sm">
+                  <span className="text-gold font-display mt-0.5">▸</span>
+                  <span>{t}</span>
+                </li>
+              ))}
+            </ul>
           </div>
 
           {/* Tools */}
