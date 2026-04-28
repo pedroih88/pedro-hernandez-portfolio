@@ -25,7 +25,7 @@ const Hero = () => {
           </h1>
           <div className="editorial-rule animate-rule mt-10 max-w-md" />
           <p className="mt-8 text-lg lg:text-xl text-foreground/75 max-w-2xl leading-relaxed font-body">
-            Pedro I. Hernández is a senior Program & Quality leader with 20+ years orchestrating
+            Pedro I. Hernández is a senior Program & Quality leader with 10+ years orchestrating
             enterprise QMS migrations, supplier governance, and audit-ready operations across
             medical devices, regulated manufacturing, and global high-tech.
           </p>
