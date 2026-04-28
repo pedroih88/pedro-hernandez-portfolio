@@ -13,12 +13,27 @@ export default {
       },
     },
     extend: {
+      fontFamily: {
+        display: ["Outfit", "system-ui", "sans-serif"],
+        body: ["Figtree", "system-ui", "sans-serif"],
+      },
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
+        gold: "hsl(var(--gold))",
+        "gold-soft": "hsl(var(--gold-soft))",
+        emerald: {
+          deep: "hsl(var(--emerald-deep))",
+          DEFAULT: "hsl(var(--emerald))",
+          mid: "hsl(var(--emerald-mid))",
+        },
+        cream: {
+          DEFAULT: "hsl(var(--cream))",
+          soft: "hsl(var(--cream-soft))",
+        },
         primary: {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
