@@ -8,13 +8,13 @@ const projects = [
     methods: [
       "Conducted supplier audits and onboarding across 250+ vendors",
       "Applied ISO 13485 and FDA 21 CFR 820 to redesign workflows",
-      "Coordinated QA, Legal, Operations, and Supply Chain via PM methodologies",
+      "Coordinated QA, Legal, Operations, and Supply Chain via cross-functional team leadership and PM methodologies",
       "Delivered supplier training and compliance workshops across NA/EU",
     ],
     outcomes: [
       "Zero major audit findings across all suppliers",
       "Reduced compliance gaps by 40%",
-      "Enabled multisite ISO 13485 certification readiness",
+      "Enabled multisite ISO 13485 certification and audit readiness",
       "Strengthened traceability and documentation control across the supply base",
     ],
   },
