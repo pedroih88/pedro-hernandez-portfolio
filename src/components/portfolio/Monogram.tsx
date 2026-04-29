@@ -51,7 +51,7 @@ const Monogram = ({ size = 220, variant = "emerald" }: MonogramProps) => {
         fill={stroke}
         opacity="0.7"
       >
-        PMP · LEAD AUDITOR
+        PM · QSM · AUDITOR
       </text>
     </svg>
   );
