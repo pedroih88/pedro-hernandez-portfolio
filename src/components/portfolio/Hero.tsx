@@ -10,7 +10,7 @@ const Hero = () => {
         <span className="hidden md:block col-span-3">Quality · Programs · People</span>
         <span className="col-span-6 md:col-span-3 text-right">Portfolio · 2026</span>
       </div>
-      <div className="max-w-7xl mx-auto px-6 lg:px-10 grid grid-cols-12 gap-8 lg:gap-12 items-end">
+      <div className="max-w-7xl mx-auto px-6 lg:px-10 grid grid-cols-12 gap-8 lg:gap-12 items-start">
         {/* Left — main headline */}
         <div className="col-span-12 lg:col-span-8 animate-fade-up">
           <p className="font-display text-sm tracking-[0.4em] uppercase text-emerald-mid mb-6">
@@ -68,7 +68,7 @@ const Hero = () => {
         </div>
 
         {/* Right — monogram card */}
-        <div className="col-span-12 lg:col-span-4 animate-fade-in">
+        <div className="col-span-12 lg:col-span-4 animate-fade-in lg:sticky lg:top-28">
           <div className="relative">
             <div className="relative bg-gradient-emerald rounded-sm p-10 shadow-elegant overflow-hidden grain">
               <div className="absolute top-4 left-4 right-4 flex justify-between text-[9px] tracking-[0.3em] uppercase text-cream-soft/60">
