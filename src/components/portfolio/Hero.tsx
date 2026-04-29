@@ -24,11 +24,31 @@ const Hero = () => {
             programs that <em className="not-italic italic font-light">endure</em>.
           </h1>
           <div className="editorial-rule animate-rule mt-10 max-w-md" />
-          <p className="mt-8 text-lg lg:text-xl text-foreground/75 max-w-2xl leading-relaxed font-body">
-            Pedro I. Hernández is a senior Program & Quality leader with 10+ years orchestrating
-            enterprise QMS migrations, supplier governance, and audit-ready operations across
-            medical devices, regulated manufacturing, and global high-tech.
-          </p>
+          <div className="mt-8 text-lg lg:text-xl text-foreground/75 max-w-2xl leading-relaxed font-body space-y-4">
+            <p>
+              Pedro I. Hernández is a senior Program & Quality leader with 10+ years orchestrating enterprise QMS migrations, supplier governance, and audit-ready operations across medical devices, regulated manufacturing, and global high-tech. He&nbsp;operates at the intersection of program execution, quality systems, and regulatory-driven transformation—leading complex, cross-functional initiatives where failure is not an option.
+            </p>
+            <p>
+              With 30+ years of progressive leadership across high-tech and regulated industries, he is consistently deployed into environments where organizations face one of three critical breakdowns:
+            </p>
+            <ul className="list-none space-y-2 pl-2 border-l-2 border-gold/30">
+              <li className="flex gap-2">
+                <span className="text-gold">●</span>
+                <span>Misalignment between engineering, quality, and operations</span>
+              </li>
+              <li className="flex gap-2">
+                <span className="text-gold">●</span>
+                <span>Ineffective or fragmented Quality Management Systems (QMS/eQMS)</span>
+              </li>
+              <li className="flex gap-2">
+                <span className="text-gold">●</span>
+                <span>Escalations and risk exposure threatening product integrity, compliance, or timelines</span>
+              </li>
+            </ul>
+            <p>
+              He solves these problems by bringing structured clarity, cross-functional alignment, and execution discipline into systems that are otherwise reactive and fragmented.
+            </p>
+          </div>
 
           <div className="mt-10 flex flex-wrap items-center gap-4">
             <a
