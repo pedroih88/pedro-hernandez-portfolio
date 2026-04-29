@@ -68,7 +68,7 @@ const Hero = () => {
         </div>
 
         {/* Right — monogram card */}
-        <div className="col-span-12 lg:col-span-4 animate-fade-in">
+        <div className="col-span-12 lg:col-span-4 animate-fade-in lg:sticky lg:top-28">
           <div className="relative">
             <div className="relative bg-gradient-emerald rounded-sm p-10 shadow-elegant overflow-hidden grain">
               <div className="absolute top-4 left-4 right-4 flex justify-between text-[9px] tracking-[0.3em] uppercase text-cream-soft/60">
