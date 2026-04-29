@@ -1,5 +1,5 @@
 const breakdowns = [
-  "Misalignment between engineering, quality, and operations.",
+  "Misalignment between engineering, quality, operations, and stakeholders.",
   "Ineffective or fragmented Quality Management Systems (QMS / eQMS).",
   "Escalations and risk exposure threatening product integrity, compliance, or timelines.",
 ];
