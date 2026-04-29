@@ -39,7 +39,7 @@ const Portfolio = () => {
         <div className="grid grid-cols-12 gap-8 mb-16">
           <div className="col-span-12 lg:col-span-5">
             <p className="text-[10px] tracking-[0.4em] uppercase text-gold mb-4">
-              § 04 — AI Portfolio
+              § 04 — Artifacts Under Development
             </p>
             <h2 className="font-display font-light text-4xl lg:text-5xl text-emerald-deep leading-[1.05]">
               Applied <em className="text-gold not-italic">AI concepts</em> for quality, compliance &amp; program leadership.
