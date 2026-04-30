@@ -1,4 +1,5 @@
 import Monogram from "./Monogram";
+import headshot from "@/assets/pedro-headshot.jpg";
 
 const Hero = () => {
   return (
@@ -67,8 +68,8 @@ const Hero = () => {
           </div>
         </div>
 
-        {/* Right — monogram card */}
-        <div className="col-span-12 lg:col-span-4 animate-fade-in lg:sticky lg:top-28">
+        {/* Right — monogram + headshot */}
+        <div className="col-span-12 lg:col-span-4 animate-fade-in lg:sticky lg:top-28 space-y-6">
           <div className="relative">
             <div className="relative bg-gradient-emerald rounded-sm p-10 shadow-elegant overflow-hidden grain">
               <div className="absolute top-4 left-4 right-4 flex justify-between text-[9px] tracking-[0.3em] uppercase text-cream-soft/60">
@@ -76,7 +77,7 @@ const Hero = () => {
                 <span>2026</span>
               </div>
               <div className="flex items-center justify-center py-6">
-                <Monogram size={240} />
+                <Monogram size={200} />
               </div>
               <div className="absolute bottom-4 left-4 right-4 flex justify-between text-[9px] tracking-[0.3em] uppercase text-cream-soft/60">
                 <span>ISO 9001 · 13485</span>
@@ -86,6 +87,26 @@ const Hero = () => {
             <div className="mt-4 flex items-center justify-between text-xs text-muted-foreground">
               <span className="tracking-widest uppercase">Plate I.</span>
               <span className="italic">"Structure & clarity in change."</span>
+            </div>
+          </div>
+
+          <div className="relative">
+            <div className="relative bg-cream rounded-sm p-3 shadow-elegant overflow-hidden">
+              <div className="absolute top-5 left-5 right-5 z-10 flex justify-between text-[9px] tracking-[0.3em] uppercase text-emerald-deep/60">
+                <span>Plate II</span>
+                <span>Portrait</span>
+              </div>
+              <img
+                src={headshot}
+                alt="Portrait of Pedro I. Hernández, Senior Program & Quality Leader"
+                loading="lazy"
+                className="w-full h-auto aspect-[4/5] object-cover rounded-sm grayscale-[15%] contrast-[1.02]"
+              />
+              <div className="absolute inset-3 rounded-sm ring-1 ring-gold/30 pointer-events-none" />
+            </div>
+            <div className="mt-4 flex items-center justify-between text-xs text-muted-foreground">
+              <span className="tracking-widest uppercase">Pedro I. Hernández</span>
+              <span className="italic">Corvallis, OR</span>
             </div>
           </div>
         </div>
