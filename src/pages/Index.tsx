@@ -22,6 +22,7 @@ const Index = () => {
       <Portfolio />
       <Artifacts />
       <Credentials />
+      <GitHubRepos />
       <Contact />
     </main>
   );
