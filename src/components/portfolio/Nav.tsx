@@ -8,7 +8,6 @@ const links = [
   { href: "#portfolio", label: "Value Proposition" },
   { href: "#artifacts", label: "Artifacts Under Development" },
   { href: "#credentials", label: "Credentials" },
-  { href: "#github", label: "GitHub" },
   { href: "#contact", label: "Contact" },
 ];
 

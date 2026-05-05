@@ -7,7 +7,6 @@ import Projects from "@/components/portfolio/Projects";
 import Portfolio from "@/components/portfolio/Portfolio";
 import Artifacts from "@/components/portfolio/Artifacts";
 import Credentials from "@/components/portfolio/Credentials";
-import GitHubRepos from "@/components/portfolio/GitHubRepos";
 import Contact from "@/components/portfolio/Contact";
 
 const Index = () => {
@@ -22,7 +21,6 @@ const Index = () => {
       <Portfolio />
       <Artifacts />
       <Credentials />
-      <GitHubRepos />
       <Contact />
     </main>
   );
