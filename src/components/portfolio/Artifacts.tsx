@@ -33,11 +33,11 @@ const Artifacts = () => {
           </div>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-px bg-border">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 items-stretch">
           {artifacts.map((a) => (
             <article
               key={a.no}
-              className="bg-cream-soft p-8 lg:p-10 group hover:bg-cream transition-colors duration-500 min-h-[280px] flex flex-col"
+              className="bg-cream-soft p-8 lg:p-10 group hover:bg-cream transition-colors duration-500 min-h-[280px] flex flex-col border border-border"
             >
               <div className="flex items-start justify-between mb-6">
                 <span className="font-display text-5xl font-light text-gold/80 leading-none">
@@ -68,6 +68,48 @@ const Artifacts = () => {
               </div>
             </article>
           ))}
+
+          {/* Right-hand side panel */}
+          <div className="flex flex-col gap-6">
+            <p className="text-foreground/75 text-base leading-relaxed italic">
+              A focused preview of the framework — built to be tested, stressed, and refined
+              against real-world quality scenarios.
+            </p>
+
+            <div className="bg-cream-soft border border-border p-6 lg:p-8">
+              <p className="text-[10px] tracking-[0.3em] uppercase text-gold mb-3">
+                What you'll see
+              </p>
+              <h5 className="font-display text-xl text-emerald-deep mb-3 leading-snug">
+                A live, interactive readiness map
+              </h5>
+              <ul className="text-foreground/75 text-sm leading-relaxed space-y-2 list-disc pl-5">
+                <li>ISO 13485:2016 ↔ FDA QMS clause cross-walk</li>
+                <li>Gap-assessment prompts with audit-ready language</li>
+                <li>Single operating view across both frameworks</li>
+              </ul>
+            </div>
+
+            <div className="bg-emerald-deep text-cream p-6 lg:p-8">
+              <p className="text-[10px] tracking-[0.3em] uppercase text-gold mb-3">
+                Try it now
+              </p>
+              <h5 className="font-display text-xl mb-3 leading-snug">
+                Run the artifact in your browser
+              </h5>
+              <p className="text-cream/80 text-sm leading-relaxed mb-5">
+                No signup required. Open the live build and walk through the readiness flow end-to-end.
+              </p>
+              <a
+                href="https://copilot.microsoft.com/shares/artifacts/9BtbwHcPKdH2VeNKhssWU"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-xs uppercase tracking-[0.2em] font-bold bg-gold text-emerald-deep px-4 py-2 rounded-sm inline-block hover:bg-gold/90 transition-colors"
+              >
+                Launch the App →
+              </a>
+            </div>
+          </div>
         </div>
 
         <p className="mt-12 text-sm text-muted-foreground italic">
