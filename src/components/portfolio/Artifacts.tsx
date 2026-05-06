@@ -3,7 +3,7 @@ const artifacts = [
     no: "01",
     title: "ISO 13485 + FDA QMSR Readiness Map",
     status: "Beta Test",
-    body: "Cross-walk and gap-assessment tool aligning ISO 13485:2016, and FDA QMS (21 CFR 820 harmonization) into a single audit-ready operating model.",
+    body: "Cross-walk and gap-assessment tool aligning ISO 13485:2016, and FDA QMS (21 CFR 820 harmonization) into a single audit-ready operating model.\n\nWant to be a tester?",
     link: "https://copilot.microsoft.com/shares/artifacts/9BtbwHcPKdH2VeNKhssWU",
   },
 ];
@@ -50,7 +50,7 @@ const Artifacts = () => {
               <h4 className="font-display text-xl lg:text-2xl font-normal text-emerald-deep mb-3 leading-snug">
                 {a.title}
               </h4>
-              <p className="text-foreground/75 text-sm leading-relaxed font-body">
+              <p className="text-foreground/75 text-sm leading-relaxed font-body whitespace-pre-line">
                 {a.body}
               </p>
               {a.link && (
@@ -98,7 +98,7 @@ const Artifacts = () => {
                 Run the artifact in your browser
               </h5>
               <p className="text-cream/80 text-sm leading-relaxed mb-5">
-                No signup required. Open the live build and walk through the readiness flow end-to-end.
+                No signup required. Open the live build and walk through the readiness flow end-to-end.  
               </p>
               <a
                 href="https://copilot.microsoft.com/shares/artifacts/9BtbwHcPKdH2VeNKhssWU"
