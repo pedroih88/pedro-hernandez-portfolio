@@ -139,7 +139,7 @@ const Artifacts = () => {
           </div>
         </div>
 
-        <p className="mt-12 text-sm text-muted-foreground italic">
+        <p className="mt-12 text-sm text-foreground/80 hover:text-emerald-deep transition-colors relative group font-bold text-center border-none shadow">
           Interested in early access or collaboration on a specific artifact? Reach out via the Contact section.
         </p>
       </div>
