@@ -6,7 +6,7 @@ const Hero = () => {
     <section id="top" className="relative pt-32 pb-20 lg:pt-40 lg:pb-28 overflow-hidden">
       {/* Decorative top meta bar */}
       <div className="max-w-7xl mx-auto px-6 lg:px-10 grid grid-cols-12 gap-6 text-[10px] tracking-[0.3em] uppercase text-muted-foreground mb-10">
-        <span className="col-span-6 md:col-span-3">Vol. XX · No. 04</span>
+        <span className="col-span-6 md:col-span-3">VOL. 01 · NO. 04</span>
         <span className="hidden md:block col-span-3">Corvallis, Oregon</span>
         <span className="hidden md:block col-span-3">Quality · Programs · People</span>
         <span className="col-span-6 md:col-span-3 text-right">Portfolio · 2026</span>
@@ -85,7 +85,7 @@ const Hero = () => {
               </div>
             </div>
             <div className="mt-4 flex items-center justify-between text-xs text-muted-foreground">
-              <span className="tracking-widest uppercase">Plate I.</span>
+              <span className="tracking-widest uppercase"></span>
               <span className="italic">"Structure & clarity in change."</span>
             </div>
           </div>
