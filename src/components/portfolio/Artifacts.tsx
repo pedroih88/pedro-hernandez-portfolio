@@ -60,7 +60,7 @@ const Artifacts = () => {
                   rel="noopener noreferrer"
                   className="mt-4 text-xs uppercase tracking-[0.2em] transition-colors font-bold bg-lime-700 text-slate-200 px-3 py-2 rounded-sm inline-block w-fit hover:bg-lime-800"
                 >
-                  Click Here for Test the APP.
+                  Click Here for to TEST the APP.
                 </a>
               )}
               <div className="mt-auto pt-6">
