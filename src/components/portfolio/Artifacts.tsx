@@ -1,39 +1,9 @@
 const artifacts = [
   {
-    no: "01",
-    title: "eQMS Migration Playbook",
-    status: "In Drafting",
-    body: "End-to-end framework for migrating legacy paper/hybrid QMS into validated electronic systems — covering URS, validation strategy, data migration, and change control.",
-  },
-  {
-    no: "02",
-    title: "Supplier Quality Stabilization Toolkit",
-    status: "In Review",
-    body: "Risk-tiered supplier governance model with audit cadences, scorecards, and escalation pathways for medical device and regulated manufacturing supply chains.",
-  },
-  {
     no: "03",
     title: "ISO 13485 + FDA QMSR Readiness Map",
     status: "Beta Test",
     body: "Cross-walk and gap-assessment tool aligning ISO 13485:2016, FDA QMSR (21 CFR 820 harmonization), and MDSAP into a single audit-ready operating model.",
-  },
-  {
-    no: "04",
-    title: "Cross-Functional Escalation Framework",
-    status: "Concept",
-    body: "Decision matrix for converting reactive escalations into controlled programs — bridging Quality, Regulatory, Engineering, and Operations under one cadence.",
-  },
-  {
-    no: "05",
-    title: "NPI Compliance Lifecycle Canvas",
-    status: "In Drafting",
-    body: "One-page canvas mapping compliance milestones to NPI phase gates so quality and speed stay aligned from concept through sustaining.",
-  },
-  {
-    no: "06",
-    title: "Quality + Program Integration Brief",
-    status: "Concept",
-    body: "Executive-level briefing on integrating Program Management and Quality leadership into a single accountable function for high-stakes product launches.",
   },
 ];
 
