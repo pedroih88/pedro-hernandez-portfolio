@@ -63,6 +63,33 @@ const Artifacts = () => {
                   Click Here for to TEST the APP.
                 </a>
               )}
+              <div className="mt-6 space-y-4 text-foreground/75 text-sm leading-relaxed font-body">
+                <p>Even 10 minutes of poking around would be incredibly helpful.</p>
+                <p>
+                  The Executive Summary tab has a full walkthrough, but in short, try clicking through the tabs, edit a gap item or two, and hit the <strong>Commit Changes</strong> button in the bottom-right corner to see the audit trail in action.
+                </p>
+                <div>
+                  <p className="mb-2">A few things I'm curious about:</p>
+                  <ul className="list-disc pl-5 space-y-1">
+                    <li>Does the layout feel intuitive?</li>
+                    <li>Anything missing or off for your area?</li>
+                    <li>Is the commit/audit trail workflow practical or overkill?</li>
+                  </ul>
+                </div>
+                <p>
+                  And honestly, I'd love an excuse to catch up. If you have 15–20 minutes for a quick call, I'm happy to walk you through it and say hi. Just let me know what works for your schedule and I'll make myself available.
+                </p>
+                <p>
+                  You can also send me an email to{" "}
+                  <a href="mailto:ordepih@outlook.com" className="text-emerald-deep underline hover:text-gold transition-colors">
+                    ordepih@outlook.com
+                  </a>{" "}
+                  with your comments and insights.
+                </p>
+                <p className="italic">
+                  Whatever feedback you can share — even a one-liner — would go a long way. Thanks for considering it, and I really appreciate you!
+                </p>
+              </div>
               <div className="mt-auto pt-6">
                 <span className="w-8 h-px bg-emerald-deep/20 inline-block group-hover:w-16 group-hover:bg-gold transition-all duration-500" />
               </div>
