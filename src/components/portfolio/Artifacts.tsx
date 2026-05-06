@@ -25,10 +25,9 @@ const Artifacts = () => {
           </div>
           <div className="col-span-12 lg:col-span-6 lg:col-start-7 self-end">
             <p className="text-foreground/75 text-lg leading-relaxed">
-              A working library of reusable assets distilled from 30+ years of program and quality
+              A working asset distilled from 30+ years of program and quality
               leadership — engineered to compress decision time, reduce ambiguity, and make
-              complex compliance environments operable. Released progressively as each artifact
-              clears internal review.
+              complex compliance environments operable.
             </p>
           </div>
         </div>
