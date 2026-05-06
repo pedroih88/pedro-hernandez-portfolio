@@ -3,7 +3,7 @@ const artifacts = [
     no: "01",
     title: "ISO 13485 + FDA QMSR Readiness Map",
     status: "Beta Test",
-    body: "Cross-walk and gap-assessment tool aligning ISO 13485:2016, FDA QMSR (21 CFR 820 harmonization), and MDSAP into a single audit-ready operating model.",
+    body: "Cross-walk and gap-assessment tool aligning ISO 13485:2016, and FDA QMS (21 CFR 820 harmonization) into a single audit-ready operating model.",
   },
 ];
 
@@ -25,7 +25,7 @@ const Artifacts = () => {
           </div>
           <div className="col-span-12 lg:col-span-6 lg:col-start-7 self-end">
             <p className="text-foreground/75 text-lg leading-relaxed">
-              A working asset distilled from 30+ years of program and quality
+              A working asset distilled from 15+ years of program and quality
               leadership — engineered to compress decision time, reduce ambiguity, and make
               complex compliance environments operable.
             </p>
