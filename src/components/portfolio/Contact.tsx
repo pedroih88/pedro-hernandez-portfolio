@@ -41,6 +41,16 @@ const Contact = () => {
             </div>
             <div className="font-display text-xl text-emerald-deep">Corvallis, Oregon</div>
           </div>
+          <div className="pt-2">
+            <div className="text-[10px] tracking-[0.4em] uppercase text-muted-foreground mb-2">
+              Certification
+            </div>
+            <img
+              src={pmpBadge}
+              alt="Project Management Professional (PMP)® Certification Badge"
+              className="w-24 h-auto object-contain"
+            />
+          </div>
           <div className="pt-4">
             <a
               href="https://linkedin.com/in/pedro-i-hernandez-perez"
