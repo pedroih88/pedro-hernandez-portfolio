@@ -93,8 +93,8 @@ const Hero = () => {
           <div className="relative">
             <div className="relative bg-cream rounded-sm p-3 shadow-elegant overflow-hidden">
               <div className="absolute top-5 left-5 right-5 z-10 flex justify-between text-[9px] tracking-[0.3em] uppercase text-emerald-deep/60">
-                <span>Plate II</span>
-                <span>Portrait</span>
+                <span></span>
+                <span></span>
               </div>
               <img
                 src={headshot}
