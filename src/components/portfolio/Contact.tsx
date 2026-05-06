@@ -1,3 +1,5 @@
+import pmpBadge from "@/assets/pmp-badge.png";
+
 const Contact = () => {
   return (
     <section id="contact" className="relative py-24 lg:py-32 border-t border-border/60">
