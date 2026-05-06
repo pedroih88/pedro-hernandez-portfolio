@@ -14,7 +14,7 @@ const artifacts = [
   {
     no: "03",
     title: "ISO 13485 + FDA QMSR Readiness Map",
-    status: "In Drafting",
+    status: "Beta Test",
     body: "Cross-walk and gap-assessment tool aligning ISO 13485:2016, FDA QMSR (21 CFR 820 harmonization), and MDSAP into a single audit-ready operating model.",
   },
   {
