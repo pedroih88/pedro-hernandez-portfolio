@@ -1,3 +1,5 @@
+import pmpBadge from "@/assets/pmp-badge.png";
+
 const Contact = () => {
   return (
     <section id="contact" className="relative py-24 lg:py-32 border-t border-border/60">
@@ -38,6 +40,16 @@ const Contact = () => {
               Located
             </div>
             <div className="font-display text-xl text-emerald-deep">Corvallis, Oregon</div>
+          </div>
+          <div className="pt-2">
+            <div className="text-[10px] tracking-[0.4em] uppercase text-muted-foreground mb-2">
+              Certification
+            </div>
+            <img
+              src={pmpBadge}
+              alt="Project Management Professional (PMP)® Certification Badge"
+              className="w-24 h-auto object-contain"
+            />
           </div>
           <div className="pt-4">
             <a
