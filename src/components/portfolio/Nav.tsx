@@ -32,7 +32,7 @@ const Nav = () => {
           <span className="font-display text-xl tracking-tight text-emerald-deep">
             Pedro I. Hernández
           </span>
-          <span className="hidden md:inline text-[10px] tracking-[0.25em] text-muted-foreground uppercase border-l border-border pl-3">
+          <span className="hidden md:inline text-[10px] tracking-[0.25em] text-muted-foreground uppercase border-l border-border pl-3 text-center">
             Quality · Programs
           </span>
         </a>
@@ -41,7 +41,7 @@ const Nav = () => {
             <a
               key={l.href}
               href={l.href}
-              className="text-sm text-foreground/80 hover:text-emerald-deep transition-colors relative group"
+              className="text-sm text-foreground/80 hover:text-emerald-deep transition-colors relative group text-center"
             >
               {l.label}
               <span className="absolute -bottom-1 left-0 w-0 h-px bg-gold transition-all duration-500 group-hover:w-full" />
