@@ -4,6 +4,7 @@ const artifacts = [
     title: "ISO 13485 + FDA QMSR Readiness Map",
     status: "Beta Test",
     body: "Cross-walk and gap-assessment tool aligning ISO 13485:2016, and FDA QMS (21 CFR 820 harmonization) into a single audit-ready operating model.",
+    link: "https://copilot.microsoft.com/shares/artifacts/9BtbwHcPKdH2VeNKhssWU",
   },
 ];
 
@@ -52,6 +53,16 @@ const Artifacts = () => {
               <p className="text-foreground/75 text-sm leading-relaxed font-body">
                 {a.body}
               </p>
+              {a.link && (
+                <a
+                  href={a.link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-4 text-xs uppercase tracking-[0.2em] text-gold hover:text-emerald-deep transition-colors"
+                >
+                  View →
+                </a>
+              )}
               <div className="mt-auto pt-6">
                 <span className="w-8 h-px bg-emerald-deep/20 inline-block group-hover:w-16 group-hover:bg-gold transition-all duration-500" />
               </div>
