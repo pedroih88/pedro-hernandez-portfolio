@@ -4,7 +4,7 @@ const artifacts = [
     title: "ISO 13485 + FDA QMSR Readiness Map",
     status: "Beta Test",
     body: "Cross-walk and gap-assessment tool aligning ISO 13485:2016, and FDA QMS (21 CFR 820 harmonization) into a single audit-ready operating model.\n\nWant to be a tester?",
-    link: "https://copilot.microsoft.com/shares/artifacts/9BtbwHcPKdH2VeNKhssWU",
+    link: "https://regops-control-tower-qmsr-assmt.netlify.app/",
   },
 ];
 
@@ -128,7 +128,7 @@ const Artifacts = () => {
                 No signup required. Open the live build and walk through the readiness flow end-to-end.  
               </p>
               <a
-                href="https://copilot.microsoft.com/shares/artifacts/9BtbwHcPKdH2VeNKhssWU"
+                href="https://regops-control-tower-qmsr-assmt.netlify.app/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-xs uppercase tracking-[0.2em] font-bold bg-gold text-emerald-deep px-4 py-2 rounded-sm inline-block hover:bg-gold/90 transition-colors"
