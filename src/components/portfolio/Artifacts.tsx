@@ -6,6 +6,12 @@ const artifacts = [
     body: "Cross-walk and gap-assessment tool aligning ISO 13485:2016, and FDA QMS (21 CFR 820 harmonization) into a single audit-ready operating model.\n\nWant to be a tester?",
     link: "https://regops-control-tower-qmsr-assmt.netlify.app/",
   },
+  {
+    no: "02",
+    title: "Monitoring and Control: EU MDR / EU IVDR + UDI/EUDAMED",
+    status: "Concept",
+    body: "Executive gap analysis and transition narrative for manufacturers placing medical devices and IVDs on the EU market under EU MDR 2017/745 and EU IVDR 2017/746.\n\nAI-supported research covering transition from legacy MDD (93/42/EEC), AIMD (90/385/EEC), and IVDD (98/79/EC) frameworks, with obligations mapped under the UDI system and EUDAMED database. The matrix identifies 55 compliance gaps across eight functional areas — each with Impact/Implication, Recommended Action, and Suggested Supporting Evidence fields.",
+  },
 ];
 
 const Artifacts = () => {
