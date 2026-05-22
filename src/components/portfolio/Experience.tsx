@@ -3,8 +3,8 @@ const roles = [
     period: "2021 — 2025",
     company: "HP Inc. — HP Health Solutions",
     location: "Corvallis, OR",
-    title: "NPI Global Customer Assurance Engineer (Principal)",
-    sub: "Supplier Management Process Owner · QMS Lead Auditor · Process Validation Lead · ISO 13485:2016 Certified   · Cleanroom Manufacturing (7)",
+    title: "Supplier Quality Assurance Engineer,  QMS Lead Auditor , IVD Production Engineer",
+    sub: "Principal · Supplier Management Process Owner · QMS Lead Auditor · Process Validation Lead · ISO 13485:2016 · Cleanroom Manufacturing (7)",
     bullets: [
       "Led global rollout of a new Supplier Management Process and the QMS transition to Propel PLM, in compliance with ISO 13485 and aligned to FDA 21 CFR 820.",
       "Delivered zero major audit findings across 250+ suppliers through structured audits, vendor onboarding, and targeted compliance improvements.",
