@@ -48,7 +48,14 @@ const About = () => {
               </p>
               <p>
                 If you're navigating a high-stakes program, scaling a quality system, or need
-                someone to bring structure to a situation that's drifting — let's talk.
+                someone to bring structure to a situation that's drifting —{" "}
+                <a
+                  href="#contact"
+                  className="text-emerald-deep underline underline-offset-4 decoration-gold/60 hover:decoration-gold transition-colors"
+                >
+                  let's talk
+                </a>
+                .
               </p>
             </div>
           </div>
