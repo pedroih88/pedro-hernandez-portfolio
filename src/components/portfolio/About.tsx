@@ -37,6 +37,22 @@ const About = () => {
             </p>
           </div>
 
+          <div className="mt-12 pt-8 border-t border-border/60">
+            <p className="text-[10px] tracking-[0.4em] uppercase text-gold mb-4">What I'm looking for</p>
+            <div className="space-y-5 text-foreground/80 leading-relaxed text-lg font-body">
+              <p>
+                Senior program, operations, or transformation roles where the mission matters,
+                leadership is honest about the problem, and execution discipline is valued over
+                performance theater. Open across MedTech, medical device, in vitro diagnostics,
+                advanced manufacturing, and adjacent regulated and high-tech industries.
+              </p>
+              <p>
+                If you're navigating a high-stakes program, scaling a quality system, or need
+                someone to bring structure to a situation that's drifting — let's talk.
+              </p>
+            </div>
+          </div>
+
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-px bg-border/70 mt-12 rounded-sm overflow-hidden">
             {stats.map((s) => (
               <div key={s.label} className="bg-cream-soft p-6 group hover:bg-emerald-deep transition-colors duration-500">
