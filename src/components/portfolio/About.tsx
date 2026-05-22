@@ -51,7 +51,7 @@ const About = () => {
                 someone to bring structure to a situation that's drifting —{" "}
                 <a
                   href="#contact"
-                  className="text-emerald-deep underline underline-offset-4 decoration-gold/60 hover:decoration-gold transition-colors"
+                  className="text-emerald-deep underline underline-offset-4 decoration-gold/60 hover:decoration-gold transition-colors text-lg border-dotted shadow-sm opacity-100 rounded-sm text-lime-800 bg-slate-200 border-0"
                 >
                   let's talk
                 </a>
