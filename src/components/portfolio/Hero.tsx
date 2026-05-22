@@ -27,7 +27,7 @@ const Hero = () => {
           <div className="editorial-rule animate-rule mt-10 max-w-md" />
           <div className="mt-8 text-lg lg:text-xl text-foreground/75 max-w-2xl leading-relaxed font-body space-y-4">
             <p>
-              Pedro I. Hernández is a senior Program & Quality leader with 10+ years orchestrating enterprise QMS migrations, supplier governance, and audit-ready operations across medical devices, regulated manufacturing, and global high-tech. He&nbsp;operates at the intersection of program execution, quality systems, and regulatory-driven transformation—leading complex, cross-functional initiatives where failure is not an option.
+              Pedro I. Hernández is a senior Program & Quality leader with 15+ years&nbsp;stabilizing high-stakes Programs and orchestrating enterprise QMS migrations, supplier governance, and audit-ready operations across medical devices, regulated manufacturing, and global high-tech. He&nbsp;operates at the intersection of program execution, quality systems, and regulatory-driven transformation—leading complex, cross-functional initiatives where failure is not an option.
             </p>
             <p>
               With 30+ years of progressive leadership across high-tech and regulated industries, he is consistently deployed into environments where organizations face one of three critical breakdowns:
