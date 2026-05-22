@@ -18,7 +18,7 @@ const Hero = () => {
             The Feature — A Senior Leader's Portfolio
           </p>
           <h1 className="font-display font-light text-5xl sm:text-6xl lg:text-[5.5rem] leading-[0.95] text-emerald-deep text-balance">
-            Building quality systems
+            Building solutions and quality systems
             <br />
             that <em className="text-gold not-italic font-normal">scale</em>,
             <br />
