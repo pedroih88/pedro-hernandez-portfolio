@@ -1,7 +1,7 @@
 const artifacts = [
   {
     no: "01",
-    title: "ISO 13485 + FDA QMSR Readiness Map",
+    title: "RegOps Monitoring and Control: EU MDR / EU IVDR + UDI/EUDAMED",
     status: "Beta Test",
     body: "Cross-walk and gap-assessment tool aligning ISO 13485:2016, and FDA QMS (21 CFR 820 harmonization) into a single audit-ready operating model.\n\nWant to be a tester?",
     link: "https://regops-control-tower-qmsr-assmt.netlify.app/",
@@ -112,15 +112,15 @@ const Artifacts = () => {
 
             <div className="bg-cream-soft border border-border p-6 lg:p-8">
               <p className="text-[10px] tracking-[0.3em] uppercase text-gold mb-3">
-                What you'll see
+                What you'll see in the artifacts
               </p>
               <h5 className="font-display text-xl text-emerald-deep mb-3 leading-snug">
                 A live, interactive readiness map
               </h5>
               <ul className="text-foreground/75 text-sm leading-relaxed space-y-2 list-disc pl-5">
-                <li>ISO 13485:2016 ↔ FDA QMS clause cross-walk</li>
+                <li>Regulations updates with clause crosswalk</li>
                 <li>Gap-assessment prompts with audit-ready language</li>
-                <li>Single operating view across both frameworks</li>
+                <li>Single operating view across frameworks</li>
               </ul>
             </div>
 
@@ -140,7 +140,7 @@ const Artifacts = () => {
                 rel="noopener noreferrer"
                 className="text-xs uppercase tracking-[0.2em] font-bold bg-gold text-emerald-deep px-4 py-2 rounded-sm inline-block hover:bg-gold/90 transition-colors"
               >
-                Launch the App →
+                Launch the App → RegOps Monitoring and Control: ISO 13485 + FDA QMSR
               </a>
             </div>
           </div>
