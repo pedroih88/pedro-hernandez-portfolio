@@ -124,44 +124,46 @@ const Artifacts = () => {
               </ul>
             </div>
 
-            <div className="bg-emerald-deep text-cream p-6 lg:p-8">
-              <p className="text-[10px] tracking-[0.3em] uppercase text-gold mb-3">
-                Try it now
-              </p>
-              <h5 className="font-display text-xl mb-3 leading-snug">
-                Run the artifact in your browser
-              </h5>
-              <p className="text-cream/80 text-sm leading-relaxed mb-5">
-                No signup required. Open the live build and walk through the readiness flow end-to-end.  
-              </p>
-              <a
-                href="https://regops-control-tower-qmsr-assmt.netlify.app/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-xs uppercase tracking-[0.2em] font-bold bg-gold text-emerald-deep px-4 py-2 rounded-sm inline-block hover:bg-gold/90 transition-colors"
-              >
-                Launch the App → RegOps Monitoring and Control: ISO 13485 + FDA QMSR
-              </a>
-            </div>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
+              <div className="bg-emerald-deep text-cream p-6 lg:p-8 flex flex-col">
+                <p className="text-[10px] tracking-[0.3em] uppercase text-gold mb-3">
+                  Try it now
+                </p>
+                <h5 className="font-display text-xl mb-3 leading-snug">
+                  Run the artifact in your browser
+                </h5>
+                <p className="text-cream/80 text-sm leading-relaxed mb-5">
+                  No signup required. Open the live build and walk through the readiness flow end-to-end.
+                </p>
+                <a
+                  href="https://regops-control-tower-qmsr-assmt.netlify.app/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-auto text-xs uppercase tracking-[0.2em] font-bold bg-gold text-emerald-deep px-4 py-2 rounded-sm inline-block w-fit hover:bg-gold/90 transition-colors"
+                >
+                  Launch the App → RegOps Monitoring and Control: ISO 13485 + FDA QMSR
+                </a>
+              </div>
 
-            <div className="bg-emerald-deep text-cream p-6 lg:p-8">
-              <p className="text-[10px] tracking-[0.3em] uppercase text-gold mb-3">
-                Try it now
-              </p>
-              <h5 className="font-display text-xl mb-3 leading-snug">
-                Run the artifact in your browser
-              </h5>
-              <p className="text-cream/80 text-sm leading-relaxed mb-5">
-                No signup required. Open the live build and walk through the readiness flow end-to-end.
-              </p>
-              <a
-                href="https://regops-montctrlai-mdr-ivr-udi-eudamed.netlify.app/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-xs uppercase tracking-[0.2em] font-bold bg-gold text-emerald-deep px-4 py-2 rounded-sm inline-block hover:bg-gold/90 transition-colors"
-              >
-                Launch the App → RegOps Monitoring and Control: EU MDR / EU IVDR + UDI/EUDAMED
-              </a>
+              <div className="bg-emerald-deep text-cream p-6 lg:p-8 flex flex-col">
+                <p className="text-[10px] tracking-[0.3em] uppercase text-gold mb-3">
+                  Try it now
+                </p>
+                <h5 className="font-display text-xl mb-3 leading-snug">
+                  Run the artifact in your browser
+                </h5>
+                <p className="text-cream/80 text-sm leading-relaxed mb-5">
+                  No signup required. Open the live build and walk through the readiness flow end-to-end.
+                </p>
+                <a
+                  href="https://regops-montctrlai-mdr-ivr-udi-eudamed.netlify.app/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-auto text-xs uppercase tracking-[0.2em] font-bold bg-gold text-emerald-deep px-4 py-2 rounded-sm inline-block w-fit hover:bg-gold/90 transition-colors"
+                >
+                  Launch the App → RegOps Monitoring and Control: EU MDR / EU IVDR + UDI/EUDAMED
+                </a>
+              </div>
             </div>
           </div>
         </div>
