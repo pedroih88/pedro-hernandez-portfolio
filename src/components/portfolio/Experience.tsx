@@ -16,8 +16,8 @@ const roles = [
     period: "2009 — 2021",
     company: "HP Inc. — Imaging & Printing Group",
     location: "Corvallis, OR · Aguadilla, PR",
-    title: "Eng. Project / Program Manager 5 (Principal)",
-    sub: "NPI Global Customer Assurance · Product Support & Customer Assurance",
+    title: "NPI Global Customer Assurance Engineer (Principal)",
+    sub: "Cleanroom Manufacturing (7/8) · Validation · Technology Transfer · CAPEX Projects",
     bullets: [
       "Led cross-functional global assurance programs for inkjet and 3D printing platforms in compliance with ISO 9001 — improving NPI quality outcomes.",
       "Reduced warranty costs 10% YOY through data and root-cause analysis and corrective action leadership.",
