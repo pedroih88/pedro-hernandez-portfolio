@@ -124,46 +124,39 @@ const Artifacts = () => {
               </ul>
             </div>
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
-              <div className="bg-emerald-deep text-cream p-6 lg:p-8 flex flex-col">
-                <p className="text-[10px] tracking-[0.3em] uppercase text-gold mb-3">
-                  Try it now
-                </p>
-                <h5 className="font-display text-xl mb-3 leading-snug">
-                  Run the artifact in your browser
-                </h5>
-                <p className="text-cream/80 text-sm leading-relaxed mb-5">
-                  No signup required. Open the live build and walk through the readiness flow end-to-end.
-                </p>
-                <a
-                  href="https://regops-control-tower-qmsr-assmt.netlify.app/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="mt-auto text-xs uppercase tracking-[0.2em] font-bold bg-gold text-emerald-deep px-4 py-2 rounded-sm inline-block w-fit hover:bg-gold/90 transition-colors"
-                >
-                  Launch the App → RegOps Monitoring and Control: ISO 13485 + FDA QMSR
-                </a>
-              </div>
+          </div>
+        </div>
 
-              <div className="bg-emerald-deep text-cream p-6 lg:p-8 flex flex-col">
-                <p className="text-[10px] tracking-[0.3em] uppercase text-gold mb-3">
-                  Try it now
-                </p>
-                <h5 className="font-display text-xl mb-3 leading-snug">
-                  Run the artifact in your browser
-                </h5>
-                <p className="text-cream/80 text-sm leading-relaxed mb-5">
-                  No signup required. Open the live build and walk through the readiness flow end-to-end.
-                </p>
-                <a
-                  href="https://regops-montctrlai-mdr-ivr-udi-eudamed.netlify.app/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="mt-auto text-xs uppercase tracking-[0.2em] font-bold bg-gold text-emerald-deep px-4 py-2 rounded-sm inline-block w-fit hover:bg-gold/90 transition-colors"
-                >
-                  Launch the App → RegOps Monitoring and Control: EU MDR / EU IVDR + UDI/EUDAMED
-                </a>
-              </div>
+        <div className="mt-12 bg-emerald-deep text-cream p-6 lg:p-10">
+          <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
+            <div className="lg:col-span-4">
+              <p className="text-[10px] tracking-[0.3em] uppercase text-gold mb-3">
+                Try it now
+              </p>
+              <h5 className="font-display text-2xl mb-3 leading-snug">
+                Run the artifacts in your browser
+              </h5>
+              <p className="text-cream/80 text-sm leading-relaxed">
+                No signup required. Open a live build and walk through the readiness flow end-to-end.
+              </p>
+            </div>
+            <div className="lg:col-span-8 grid grid-cols-1 md:grid-cols-2 gap-4 lg:gap-6">
+              <a
+                href="https://regops-control-tower-qmsr-assmt.netlify.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-xs uppercase tracking-[0.2em] font-bold bg-gold text-emerald-deep px-4 py-4 rounded-sm hover:bg-gold/90 transition-colors text-center flex items-center justify-center"
+              >
+                Launch the App → RegOps Monitoring and Control: ISO 13485 + FDA QMSR
+              </a>
+              <a
+                href="https://regops-montctrlai-mdr-ivr-udi-eudamed.netlify.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-xs uppercase tracking-[0.2em] font-bold bg-gold text-emerald-deep px-4 py-4 rounded-sm hover:bg-gold/90 transition-colors text-center flex items-center justify-center"
+              >
+                Launch the App → RegOps Monitoring and Control: EU MDR / EU IVDR + UDI/EUDAMED
+              </a>
             </div>
           </div>
         </div>
