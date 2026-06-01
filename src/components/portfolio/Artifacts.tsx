@@ -11,7 +11,7 @@ const artifacts = [
     title: "Monitoring and Control: EU MDR / EU IVDR + UDI/EUDAMED",
     status: "Concept",
     body: "Executive gap analysis and transition narrative for manufacturers placing medical devices and IVDs on the EU market under EU MDR 2017/745 and EU IVDR 2017/746.\n\nAI-supported research covering transition from legacy MDD (93/42/EEC), AIMD (90/385/EEC), and IVDD (98/79/EC) frameworks, with obligations mapped under the UDI system and EUDAMED database. The matrix identifies 55 compliance gaps across eight functional areas — each with Impact/Implication, Recommended Action, and Suggested Supporting Evidence fields.",
-    link: "https://eu-mdr-ivdr-gap-matrix-lite.netlify.app/",
+    link: "https://eu-mdr-ivdr-gap-matrix-lt-import-expt.netlify.app/",
   },
 ];
 
@@ -150,7 +150,7 @@ const Artifacts = () => {
                 Launch the App → RegOps Monitoring and Control: ISO 13485 + FDA QMSR
               </a>
               <a
-                href="https://eu-mdr-ivdr-gap-matrix-lite.netlify.app/"
+                href="https://eu-mdr-ivdr-gap-matrix-lt-import-expt.netlify.app/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-xs uppercase tracking-[0.2em] font-bold bg-gold text-emerald-deep px-4 py-4 rounded-sm hover:bg-gold/90 transition-colors text-center flex items-center justify-center"
