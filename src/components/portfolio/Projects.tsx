@@ -78,7 +78,7 @@ const projects = [
     scope:
       "Led CAPEX quality projects and technology transfers supporting cleanroom manufacturing operations.",
     methods: [
-      "Applied GMP and ISO 9001 frameworks",
+      "GMP and ISO 9001 frameworks, external audit support.",
       "Managed equipment qualifications for Class 7/8 cleanrooms",
       "Used SPC and OEE to improve process reliability",
       "Applied Hybrid PM approaches to coordinate engineering, operations, and quality",
