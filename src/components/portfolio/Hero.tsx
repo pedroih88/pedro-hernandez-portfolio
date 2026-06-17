@@ -48,6 +48,9 @@ const Hero = () => {
             </ul>
             <p>
               He solves these problems by bringing structured clarity, cross-functional alignment, and execution discipline into systems that are otherwise reactive and fragmented.
+              <br />
+              <br />
+              Currently building AI-assisted regulatory intelligence tools for early-stage medical device companies — translating 30+ years of operational expertise into a platform.
             </p>
           </div>
 
