@@ -28,7 +28,7 @@ const Artifacts = () => {
               § 01 — Regulatory Intelligence Tools
             </p>
             <h2 className="font-display font-light text-4xl lg:text-5xl text-emerald-deep leading-[1.05]">
-              Frameworks, playbooks, and tools — <em className="text-gold not-italic">in active build</em>.
+              AI-assisted readiness tools for medical device innovators — <em className="text-gold not-italic">in active build</em>.
             </h2>
           </div>
           <div className="col-span-12 lg:col-span-6 lg:col-start-7 self-end">
