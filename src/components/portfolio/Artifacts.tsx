@@ -155,7 +155,7 @@ const Artifacts = () => {
                 rel="noopener noreferrer"
                 className="text-xs uppercase tracking-[0.2em] font-bold bg-gold text-emerald-deep px-4 py-4 rounded-sm hover:bg-gold/90 transition-colors text-center flex items-center justify-center"
               >
-                Launch the App → RegOps Monitoring and Control: EU MDR / EU IVDR + UDI/EUDAMED
+                Launch the App → EU MDR / IVDR Gap Matrix — Compliance Readiness Tool
               </a>
             </div>
           </div>
