@@ -25,7 +25,7 @@ const Artifacts = () => {
         <div className="grid grid-cols-12 gap-8 mb-16">
           <div className="col-span-12 lg:col-span-5">
             <p className="text-[10px] tracking-[0.4em] uppercase text-gold mb-4">
-              § 01 — Artifact Under Development
+              § 01 — Regulatory Intelligence Tools
             </p>
             <h2 className="font-display font-light text-4xl lg:text-5xl text-emerald-deep leading-[1.05]">
               Frameworks, playbooks, and tools — <em className="text-gold not-italic">in active build</em>.
