@@ -1,7 +1,7 @@
 const artifacts = [
   {
     no: "01",
-    title: "RegOps Monitoring and Control: EU MDR / EU IVDR + UDI/EUDAMED",
+    title: "ISO 13485 + FDA QMSR Readiness Assessment",
     status: "Beta Test",
     body: "Cross-walk and gap-assessment tool aligning ISO 13485:2016, and FDA QMS (21 CFR 820 harmonization) into a single audit-ready operating model.\n\nWant to be a tester?",
     link: "https://regops-control-tower-qmsr-assmt.netlify.app/",
