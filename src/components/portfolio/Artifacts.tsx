@@ -8,7 +8,7 @@ const artifacts = [
   },
   {
     no: "02",
-    title: "Monitoring and Control: EU MDR / EU IVDR + UDI/EUDAMED",
+    title: "EU MDR / IVDR Gap Matrix — Compliance Readiness Tool",
     status: "Concept",
     body: "Executive gap analysis and transition narrative for manufacturers placing medical devices and IVDs on the EU market under EU MDR 2017/745 and EU IVDR 2017/746.\n\nAI-supported research covering transition from legacy MDD (93/42/EEC), AIMD (90/385/EEC), and IVDD (98/79/EC) frameworks, with obligations mapped under the UDI system and EUDAMED database. The matrix identifies 55 compliance gaps across eight functional areas — each with Impact/Implication, Recommended Action, and Suggested Supporting Evidence fields.",
     link: "https://eu-mdr-ivdr-gap-matrix-lt-import-expt.netlify.app/",
