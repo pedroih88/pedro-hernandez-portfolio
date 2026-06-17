@@ -10,7 +10,7 @@ const artifacts = [
     no: "02",
     title: "EU MDR / IVDR Gap Matrix — Compliance Readiness Tool",
     status: "Concept",
-    body: "Executive gap analysis and transition narrative for manufacturers placing medical devices and IVDs on the EU market under EU MDR 2017/745 and EU IVDR 2017/746.\n\nAI-supported research covering transition from legacy MDD (93/42/EEC), AIMD (90/385/EEC), and IVDD (98/79/EC) frameworks, with obligations mapped under the UDI system and EUDAMED database. The matrix identifies 55 compliance gaps across eight functional areas — each with Impact/Implication, Recommended Action, and Suggested Supporting Evidence fields.",
+    body: "AI-supported gap assessment for EU MDR 2017/745 and EU IVDR 2017/746 — mapping 55 compliance gaps across eight functional areas, each with Impact/Implication, Recommended Action, and Suggested Supporting Evidence fields.\n\nAI-supported research covering transition from legacy MDD (93/42/EEC), AIMD (90/385/EEC), and IVDD (98/79/EC) frameworks, with obligations mapped under the UDI system and EUDAMED database. The matrix identifies 55 compliance gaps across eight functional areas — each with Impact/Implication, Recommended Action, and Suggested Supporting Evidence fields.",
     link: "https://eu-mdr-ivdr-gap-matrix-lt-import-expt.netlify.app/",
   },
 ];
@@ -71,7 +71,7 @@ const Artifacts = () => {
                 </a>
               )}
               <div className="mt-6 space-y-4 text-foreground/75 text-sm leading-relaxed font-body">
-                <p>Even 10 minutes of poking around would be incredibly helpful.</p>
+                <p>Early access is available for qualified design partners — early-stage device companies, ODMs, and regulatory consultants. Reach out via the Contact section to discuss access and collaboration.</p>
                 <p>
                   The Executive Summary tab has a full walkthrough, but in short, try clicking through the tabs, edit a gap item or two, and hit the <strong>Commit Changes</strong> button in the bottom-right corner to see the audit trail in action.
                 </p>
@@ -147,7 +147,7 @@ const Artifacts = () => {
                 rel="noopener noreferrer"
                 className="text-xs uppercase tracking-[0.2em] font-bold bg-gold text-emerald-deep px-4 py-4 rounded-sm hover:bg-gold/90 transition-colors text-center flex items-center justify-center"
               >
-                Launch the App → RegOps Monitoring and Control: ISO 13485 + FDA QMSR
+                LAUNCH → ISO 13485 + FDA QMSR READINESS ASSESSMENT
               </a>
               <a
                 href="https://eu-mdr-ivdr-gap-matrix-lt-import-expt.netlify.app/"
@@ -155,7 +155,7 @@ const Artifacts = () => {
                 rel="noopener noreferrer"
                 className="text-xs uppercase tracking-[0.2em] font-bold bg-gold text-emerald-deep px-4 py-4 rounded-sm hover:bg-gold/90 transition-colors text-center flex items-center justify-center"
               >
-                Launch the App → EU MDR / IVDR Gap Matrix — Compliance Readiness Tool
+                LAUNCH → EU MDR / IVDR GAP MATRIX — COMPLIANCE READINESS TOOL
               </a>
             </div>
           </div>
