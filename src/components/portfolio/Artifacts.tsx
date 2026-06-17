@@ -33,7 +33,7 @@ const Artifacts = () => {
           </div>
           <div className="col-span-12 lg:col-span-6 lg:col-start-7 self-end">
             <p className="text-foreground/75 text-lg leading-relaxed">
-              A working asset distilled from 15+ years of program and quality
+              A working asset distilled from 20+ years of program and quality
               leadership — engineered to compress decision time, reduce ambiguity, and make
               complex compliance environments operable.
             </p>
