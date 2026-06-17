@@ -28,7 +28,7 @@ const differentiators = [
   {
     no: "05",
     title: "Bridges strategy and execution",
-    body: "Ensures compliance doesn't slow innovation, and speed doesn't break quality. Lifecycle ownership from concept to sunset.",
+    body: "Ensures adoptiona and compliance doesn't slow innovation, and speed doesn't break quality. Lifecycle ownership from concept to sunset.",
   },
   {
     no: "06",
