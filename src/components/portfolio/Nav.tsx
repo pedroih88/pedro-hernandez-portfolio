@@ -6,7 +6,7 @@ const links = [
   { href: "#expertise", label: "Expertise" },
   { href: "#experience", label: "Experience" },
   { href: "#projects", label: "Projects" },
-  { href: "#artifacts", label: "Artifacts Under Development" },
+  { href: "#artifacts", label: "Regulatory Intelligence Tools" },
   { href: "#portfolio", label: "Value Proposition" },
   { href: "#credentials", label: "Credentials" },
   { href: "#contact", label: "Contact" },
